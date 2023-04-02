@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+*{
+  font-family : 'Montserrat';
+  box-sizing : border-box;
+}
+
+body {
+    background-color: #011015;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p, h1, h2 {
+    color: whitesmoke;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+a, a:visited, a:hover {
+    text-decoration: underline double;
+    color: #08799B;
+}
